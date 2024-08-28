@@ -1,3 +1,0 @@
-Es el proceso de **identificar aquellas características (atributos) y acciones o comportamientos ([[métodos]]) propios de un elemento que deseemos representar**.
-
-Por ejemplo, necesito guardar los datos de los estudiantes de una universidad. Los datos que necesitamos para un estudiante serían su nombre, apellido, edad, DNI, y legajo; Otros datos como su altura o su peso son irrelevantes para nosotros.

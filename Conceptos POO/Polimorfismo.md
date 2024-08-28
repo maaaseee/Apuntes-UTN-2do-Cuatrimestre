@@ -1,1 +1,0 @@
-Es la capacidad de un objeto para adquirir múltiples formas o comportamientos.
