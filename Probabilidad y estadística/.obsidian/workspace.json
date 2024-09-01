@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ab43b2e9aad06d36",
+    "type": "split",
+    "children": [
+      {
+        "id": "eecc8cf30c13291e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6e76db9eac7491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos/Variaciones (Con repetición).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d56c95f84ba717c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd2781578d6d494d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d6fb60606d7a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e97935866aee788f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04625d3402ce3940",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "efd8c26edbeaef83",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8b3cd541590c8f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6230c298e70855c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conceptos/Variaciones (Con repetición).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1717d3673dd4c4c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conceptos/Variaciones (Con repetición).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbab5312650bb144",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27a7fb92c7688a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceptos/Variaciones (Con repetición).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cb6e76db9eac7491",
+  "lastOpenFiles": [
+    "Conceptos/Variaciones (Sin repetición).md",
+    "Conceptos/Combinaciones (Sin repetición).md",
+    "Conceptos/Regla de la multiplicación.md",
+    "Conceptos/Técnicas de conteo.md",
+    "Conceptos/Variaciones (Con repetición).md",
+    "Conceptos/Permutaciones (Sin repetición).md",
+    "Conceptos/Diagrama de árbol.md",
+    "Inicio de cursada.md",
+    "Recursos/Pasted image 20240901154216.png",
+    "Excalidraw/Drawing 2024-09-01 15.16.24.excalidraw.md",
+    "Actividades/-Index Clases.md",
+    "Recursos/Pasted image 20240901151943.png",
+    "Pasted image 20240901151951.png",
+    "Excalidraw",
+    "Conceptos",
+    "Actividades",
+    "Recursos"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7252418bea0c87b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dae09036c16a3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c41e0d3b014310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inicio de cursada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41aaa7b6b87d97bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividades/-Index Clases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46fe57539a6ba5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1b90c2ebbf531e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0e99d72b3ebfe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2b216648cf13321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b03f7cd573e8bff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "554320e723827486",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a40f8d85303d22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a9505bf4e3b7bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Actividades/-Index Clases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b321323f11973f87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Actividades/-Index Clases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e6ba1e1d6042230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cade2f06fe243ed6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Actividades/-Index Clases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41aaa7b6b87d97bd",
+  "lastOpenFiles": [
+    "Inicio de cursada.md",
+    "Actividades/-Index Clases.md",
+    "Conceptos/Memoria en lenguajes compilados.md",
+    "Recursos/Pasted image 20240826184214.png",
+    "Actividades",
+    "Recursos/Pasted image 20240826211328.png",
+    "Recursos/Pasted image 20240826183928.png",
+    "Recursos/Pasted image 20240826184554.png",
+    "Conceptos/Lenguajes interpretados y compilados.md",
+    "Conceptos/Paradigmas de programación.md",
+    "Conceptos/Conceptos POO/Abstracción.md",
+    "Conceptos/Conceptos POO/Crear objetos en POO.md",
+    "Conceptos/Conceptos POO/Encapsulamiento.md",
+    "Conceptos/Conceptos POO/Métodos.md",
+    "Conceptos/Conceptos POO/Polimorfismo.md",
+    "Conceptos/Conceptos POO/Herencia.md",
+    "Conceptos"
+  ]
+}
