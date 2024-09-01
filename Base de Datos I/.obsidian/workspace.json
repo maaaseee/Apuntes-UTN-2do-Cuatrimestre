@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "ff27623b408065b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7792b8d662bf3a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007651f11e40b33b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9407ad2412ce974",
+    "type": "split",
+    "children": [
+      {
+        "id": "092953cec8507755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb297b053e4a152e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea5a6bd02515fed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a1120f190b52a10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "686ef24e8aa98974",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33d196dee6ed804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1f970c3093a817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6654a2ed7022cb4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "424abdbc30eeb2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb024c9298893d75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "007651f11e40b33b",
+  "lastOpenFiles": [
+    "Inicio de cursada.md",
+    "Conceptos básicas de las tablas.md",
+    "Definiciones básicas de base de datos.md",
+    "Tipos de relaciones.md",
+    "Recursos/Pasted image 20240828111205.png",
+    "Recursos/Pasted image 20240828111816.png",
+    "Recursos/Pasted image 20240828104820.png",
+    "Recursos/Pasted image 20240828104702.png",
+    "Recursos/Pasted image 20240828085116.png",
+    "Recursos/Pasted image 20240828084414.png",
+    "Recursos",
+    "Primary Key (PK).md",
+    "Herramientas a utilizar.md",
+    "Funciones.md",
+    "Definición.md",
+    "Componentes.md",
+    "Características.md",
+    "Base de datos relacional.md",
+    "Actividades/Clase 1.md",
+    "Actividades"
+  ]
+}

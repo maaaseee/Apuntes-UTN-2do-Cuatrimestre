@@ -4,32 +4,38 @@ En general, la información en la base de datos está integrada y es compartida.
 - Integrada significa que la base de datos puede considerarse como una unificación de varios archivos de datos, eliminando total o parcialmente cualquier redundancia, o sea que los datos no se repitan.
 - Compartida significa que los elementos individuales de información en la base de datos puede compartirse entre varios usuarios distintos.
 
-##### "Catálogo del sistema"
+##### *"Catálogo del sistema"*
 Funciona como diccionario de datos e incluirá todos los detalles descriptivos de la base.
 
-## 2. **Información**
+## 2. **Equipos**
 
 Consiste en los servidores de la base de datos: volúmenes de almacenamiento, los dispositivos de E/S, controladores de dispositivos, procesadores y memorias principales.
 
 ## 3. **Programas**
 
-- ==Programas de aplicación==: permiten la interacción entre los usuarios y la base de datos.
-- ==Programas de administración==: el sistema de administración (SGBD), maneja las solicitudes de acceso a la base de datos, la obtención y puesta al día de los datos. El SGBD está compuesto por software para procesar consultas y software para tener acceso a los datos almacenados
+- **Programas de aplicación**: permiten la interacción entre los usuarios y la base de datos.
+- **Programas de administración**: el sistema de administración (SGBD), maneja las solicitudes de acceso a la base de datos, la obtención y puesta al día de los datos. El SGBD está compuesto por software para procesar consultas y software para tener acceso a los datos almacenados
 
 ## 4. **Usuarios**
 
-Hay cuatro tipos de usuarios:
-### - Administrador de Bases de Datos
+**Hay cuatro tipos de usuarios:**
+
+- Administrador de Bases de Datos
+- Analista de sistemas
+- Programador de aplicaciones
+- Usuarios
+### - **Administrador de Bases de Datos**
+
 Es la persona que toma las decisiones estratégicas y de política con respecto a la información de la empresa.
 
 Sus funciones son:
 
 **La definición del esquema conceptual.**
 - Identificar las entidades y la información que debe registrarse acerca de esas entidades (diseño
-Lógico), identificando los diseños de las tablas que debo realizar.
+lógico), identificando los diseños de las tablas que debo realizar.
 
 **La definición del esquema interno.**
-- Cómo se representará la información en la BD (diseño Físico). Se utiliza DDL (data
+- Cómo se representará la información en la BD (diseño físico). Se utiliza DDL (data
 definition language).
 
 **La vinculación con los usuarios.**
@@ -53,6 +59,11 @@ ayudarlos con el esquema externo.
 - Cantidad de usuarios concurrentes.
 - El uso de la memoria.
 
-### - Analista de sistemas y programador de aplicaciones:
+### - **Analista de sistemas y programador de aplicaciones**
+
 **Los analistas** determinan los requerimientos de los usuarios finales. 
 **Los programadores** escriben los programas que utilizan la BD, para luego probar, depurar, documentar y mantener estas transacciones programadas.
+
+### - **Usuarios Finales**
+
+Interactúan con el sistema a través de las aplicaciones que escriben los programadores. Son las personas que necesitan tener acceso a la base de datos para consultarla, actualizarla, generar informes, etc.

@@ -1,1 +1,1 @@
-Son las acciones que el objeto sabe/puede realizar.
+> Son las acciones que el objeto sabe/puede realizar.

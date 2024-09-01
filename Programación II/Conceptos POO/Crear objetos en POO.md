@@ -1,4 +1,4 @@
-##### Agrupar código en objetos de software individuales proporciona una serie de beneficios, entre ellos: 
+> Agrupar código en objetos de software individuales proporciona una serie de beneficios, entre ellos: 
 
 ###### 1. **Modularidad**: el código fuente de un objeto se puede escribir y mantener independientemente del código fuente de otros objetos. Una vez creado, un objeto se puede pasar fácilmente dentro del sistema. 
 ###### 2. **Ocultamiento de información**: al interactuar únicamente con los [[métodos]] de un objeto, los detalles de su implementación interna permanecen ocultos al mundo exterior. 

@@ -10,3 +10,4 @@ Operaciones para modificar/consultar la información dentro de la base de datos.
 
 ## **DCL** (Data Control Language)
 
+Operaciones para administrar la base de datos.
