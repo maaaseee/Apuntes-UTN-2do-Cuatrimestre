@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06c41e0d3b014310",
+            "id": "469d2d87afce872b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio de cursada.md",
+                "file": "Actividades/-Index Clases.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "41aaa7b6b87d97bd",
+            "id": "506c56ab7389e04e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividades/-Index Clases.md",
+                "file": "Actividades/Clase 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividades/-Index Clases.md",
+                "file": "Actividades/Clase 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividades/-Index Clases.md",
+                "file": "Actividades/Clase 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividades/-Index Clases.md"
+                "file": "Actividades/Clase 3.md"
               }
             }
           }
@@ -159,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41aaa7b6b87d97bd",
+  "active": "506c56ab7389e04e",
   "lastOpenFiles": [
     "Inicio de cursada.md",
+    "Actividades/Clase 3.md",
+    "Recursos/Pasted image 20240902101557.png",
     "Actividades/-Index Clases.md",
+    "Conceptos/Variables.md",
     "Conceptos/Memoria en lenguajes compilados.md",
     "Recursos/Pasted image 20240826184214.png",
     "Actividades",

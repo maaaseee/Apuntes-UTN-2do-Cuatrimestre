@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Variaciones (Con repetición).md",
+                "file": "Conceptos/Combinaciones (Sin repetición).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptos/Variaciones (Con repetición).md",
+                "file": "Conceptos/Combinaciones (Sin repetición).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptos/Variaciones (Con repetición).md",
+                "file": "Conceptos/Combinaciones (Sin repetición).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptos/Variaciones (Con repetición).md"
+                "file": "Conceptos/Combinaciones (Sin repetición).md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "cb6e76db9eac7491",
   "lastOpenFiles": [
-    "Conceptos/Variaciones (Sin repetición).md",
+    "Conceptos/Permutaciones (Sin repetición).md",
     "Conceptos/Combinaciones (Sin repetición).md",
+    "Conceptos/Variaciones (Con repetición).md",
+    "Conceptos/Variaciones (Sin repetición).md",
     "Conceptos/Regla de la multiplicación.md",
     "Conceptos/Técnicas de conteo.md",
-    "Conceptos/Variaciones (Con repetición).md",
-    "Conceptos/Permutaciones (Sin repetición).md",
     "Conceptos/Diagrama de árbol.md",
     "Inicio de cursada.md",
     "Recursos/Pasted image 20240901154216.png",
